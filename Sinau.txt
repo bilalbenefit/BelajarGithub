@@ -1,1 +1,3 @@
 mencoba lebih memahami terkait GIT terutama untuk PUSH
+sudah melakukan proses push ke repo remote
+mencoba untuk melakukan clone kembali ke repo local
