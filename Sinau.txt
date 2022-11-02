@@ -1,5 +1,10 @@
 Sepertinya saya ada yang keliru
 ternyata masih belum memahami terkait GIT secara mendasar
-mari kita ulangi dari step pull
-apakah yang saya lakukan sudah benar ?
-mari kita perhatikan sama sama
+wah akhirnya benar
+complete mission for :
+  1. git pull
+  2. cat Sinau.txt
+  3. git add Sinau.txt
+  4. git commit -m "Text yang ingin ditampilkan"
+  5. git push -u origin 
+Next nya mencoba untuk MERGE yak !!!
