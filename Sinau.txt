@@ -1,5 +1,1 @@
-mencoba lebih memahami terkait GIT terutama untuk PUSH
-sudah melakukan proses push ke repo remote
-ternyata bukan clone melainkan pull
-berhasil melakukan pull dari repo remote ke repo local
-sepertinya achievement untuk belajar GIT sudah dapat di ceklis
+Belajar GIT Selesai!!!
