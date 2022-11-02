@@ -1,3 +1,5 @@
 Sepertinya saya ada yang keliru
 ternyata masih belum memahami terkait GIT secara mendasar
 mari kita ulangi dari step pull
+apakah yang saya lakukan sudah benar ?
+mari kita perhatikan sama sama
