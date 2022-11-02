@@ -1,1 +1,3 @@
-Belajar GIT Selesai!!!
+Sepertinya saya ada yang keliru
+ternyata masih belum memahami terkait GIT secara mendasar
+mari kita ulangi dari step pull
